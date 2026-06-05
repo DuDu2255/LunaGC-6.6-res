@@ -1,4 +1,4 @@
-# 6.5 resources
+# 6.6 resources
 # The bare minimum!
 
 # Credits:
